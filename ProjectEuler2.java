@@ -1,4 +1,4 @@
-// solution to Project Euler Problem 1
+// solution to Project Euler Problem 2
 
 public class ProjectEuler2 {
 
